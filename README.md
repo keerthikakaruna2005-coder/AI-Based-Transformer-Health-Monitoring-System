@@ -52,4 +52,8 @@ The project combines **Electrical Engineering concepts, Machine Learning, and St
 
 
 > AI-powered transformer health monitoring system using Machine Learning to predict transformer conditions (Healthy, Warning, Critical) based on temperature, voltage, current, and oil level with a Streamlit dashboard.
+> <img width="1467" height="880" alt="image" src="https://github.com/user-attachments/assets/27a73129-725f-4ca4-9528-8d4ec45d5a78" />
+<img width="1446" height="727" alt="image" src="https://github.com/user-attachments/assets/820405ab-a272-4c49-aa37-a4017f09dcea" />
+
+
 
